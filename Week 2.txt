@@ -1,0 +1,42 @@
+Naming Roles:
+- Name may start with alphabets.
+- Name may not contains spaces in between.
+- You can use _ symbols.
+- Names may not be reserved words
+
+1. Operators 
+2. Operands
+
+Operators:
+ Arithmetic Operators:
+  1. Addition (+)
+  2. Subtraction (-)
+  3. Multiplication (*)
+  4. Division (/)
+  5. Modulus (%)
+
+Data Conversion:
+ 1. Implicit
+      " Automatic conversion or converting smaller data types into bigger data types "
+ 2. Explicit
+      " Manual/Forced conversion or converting Larger data types into smaller data types "
+
+Assignment Operators:
+ 1. Assignment (=)
+
+ Comparison (Relational) Operators:
+  1. Less Than (<)
+  2. Greater Than (>)
+  3. Equals (==)
+  4. Not Equals (!=)
+  5. Less Than Equal To (<=)
+  6. Greater Than Equals To (>=)
+ 
+ Logical Operators:
+  1. Or
+  2. And
+  3. Not
+
+ 
+	
+ 
